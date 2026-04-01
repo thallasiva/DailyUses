@@ -23,7 +23,7 @@ function App() {
        <Navbar/>
       <Routes>
 
-        <Route path="/" element={ <> <Comp1 /> <Comp2 /> <Comp3/> <Comp4/> <Comp5/> <Comp6/> <Comp7/> </>} /> 
+        <Route path="/" element={ <> <Comp1 /> <Comp2 /> <Comp3/> <Comp4/> <Comp5/> <Comp6/> <Comp7 </>} /> 
           
         <Route path= "/home" element= {<Home/>} />
         <Route path= "/pricing" element= {<Pricing/>} /> 
