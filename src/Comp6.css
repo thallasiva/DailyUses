@@ -1,0 +1,37 @@
+.container6 {
+  text-align: center;
+}
+
+.heading {
+font-size: 24px;
+font-weight: bold;
+}
+
+.subtxt {
+  margin-bottom: 30px;
+  color: gray;
+}
+
+.card6{
+width: 20rem;
+display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px ;
+  padding: 20px;
+  border-radius: 12px;
+  background: #f9f3f3;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.main1{
+    display: flex;
+  justify-content: center;
+  gap: 0px;
+  flex-wrap: wrap
+}
+
+.h6 {
+   color: gray;
+   font-weight: lighter;
+}
